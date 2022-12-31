@@ -2,19 +2,19 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Mr. Vollard
 logo:
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: contact@aska.systems
+phone: +111 11 1111
+address: Earth
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-  - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
+  # - { name: About, link: "/about" }
+  # - { name: Blog, link: "/blog" }
+  # - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: アートとしての<br>イラストを依頼しよう
 
 social:
   - { icon: "ti-facebook", link: "#" }
@@ -96,7 +96,7 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: How it works
 experience:
   - {
       name: Junior UX Designer,
@@ -120,50 +120,50 @@ experience:
 #-------------------------------
 # Education Section
 
-education-title: Education
+education-title: こんな用途にどうぞ
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: 学会・研究会ポスター,
+      date: "Academic",
+      organization: "学会・研究会の主催者など",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
+      name: 講演スライド・論文での概念図,
+      date: "Academic",
+      organization: "大事な講演のイントロなどで",
     }
   - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
+      name: 雑誌の表紙,
+      date: "Academic/Business",
+      organization: "商業誌・学術誌の表紙などに",
     }
   - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+      name: 企業ブースでのパネルイラスト,
+      date: "Business",
+      organization: "イベント会場でのイラストなどに",
     }
 
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Why Mr. Vollard?
 services:
   - {
-      name: UI Design,
+      name: クライアントと画家の協業,
       icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "基本的に描く内容は完全にクライアントが決めるのではなく、画家と相談しながら決める「クライアントと画家との協業」を念頭に置いています。",
       active: ,# Add true to select section
     }
   - {
-      name: UX Design,
-      icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      name: 作品の宣伝・販売,
+      icon: ti-panel,
+      description: "画家の作品を、画家とクライアントの連名で宣伝し、販売していきます。作画発注時の支払いに加え、その後の作品の売上の一部は画家へ還元されます。",
       active: true, # Add true to select section
     }
   - {
-      name: Interaction Design,
-      icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      name: クライアントによる解説,
+      icon: ti-vector,
+      description: "Mr. Vollardで扱う作品は、単なるアートではありません。それが何を意味しているのかのストーリーは作品の重要な価値です。そのため、作品の解説文をクライアントの方にお願いしています。",
       active: ,# Add true to select section
     }
 
@@ -299,5 +299,5 @@ client-slider-items:
 #-------------------------------
 # Contact Section
 
-contact-title: Contact Info
+contact-title: Order Form
 contact-email: steve.fruits@email.com
